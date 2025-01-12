@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Igor Kantor.
-- 👀 I’m interested in cloud engineering, DevOps best practices and serverless computing.
+- 👀 I’m interested in cloud engineering, AI best practices and travel.
 - 🌱 I’m currently learning Rust.
 - 📫 You can reach me on https://devfire.io
 
